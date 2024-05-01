@@ -1,5 +1,5 @@
 # PRODIGY_WD_01
-Landing Page
+LANDING PAGE
  * HTML used to Structure the menu.
  * CSS used to style it.
  * Javascript used to add interacitvity and use to  changing the background color & font color of the menu when it is scrolled .
